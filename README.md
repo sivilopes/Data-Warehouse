@@ -32,11 +32,7 @@ The first step in the process was creating a comprehensive dataset, which includ
 
 To house this dataset, an Oracle database was chosen for its reliability and scalability. The database was designed to accommodate the growing volume of data while ensuring optimal performance.
 
-
-
-![Diagram](https://github.com/users/sivilopes/projects/1/assets/122314693/cebade59-70a5-4f1b-a6e8-40f93182920f)
-
-
+![Picture1](https://github.com/sivilopes/Data-Warehouse/assets/122314693/a39542f9-809e-4364-b7fd-5d6ddb289672)
 
 ## ETL Process
 
