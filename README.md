@@ -48,7 +48,7 @@ Data transformation involves cleansing, structuring, and enriching the data. Inc
 
 The transformed data was then loaded into the Data Warehouse, making it available for analytical purposes. The ETL process was executed using a series of procedures to automate and streamline data flow.
 
-***Image
+![Picture2](https://github.com/sivilopes/Data-Warehouse/assets/122314693/2c4a7cac-ecc8-4242-ba47-e3359985c14a)
 
 ### Star Schema
 
@@ -62,7 +62,7 @@ The central fact table contains quantitative data, such as sales transactions an
 
 Dimension tables store descriptive information, such as product and service attributes, supplier and customer information, and time-related data. These tables are linked to the fact table, enabling multidimensional analysis.
 
-*** image
+![Picture3](https://github.com/sivilopes/Data-Warehouse/assets/122314693/c9de65cf-1964-41de-bcbc-6458af65394c)
 
 ## Data Analysis and Reporting with Power BI
 
@@ -72,7 +72,7 @@ The implementation of the Data Warehouse in the PetShop extends beyond data cons
 
 Power BI enables users to create interactive and visually appealing reports and dashboards. By connecting to the Data Warehouse, employees across various departments now have access to real-time data and can perform in-depth analysis with ease. This facilitates the identification of trends, opportunities, and areas for improvement.
 
-** image
+![Picture4](https://github.com/sivilopes/Data-Warehouse/assets/122314693/1f46faf4-6368-4576-bfbb-dd7f012a1b4e)
 
 ## Conclusion
 
