@@ -1,8 +1,8 @@
-# Data Warehouse Implementation in a PetShop - Academic Project
+## Data Warehouse Implementation in a PetShop - Academic Project
 
 This project involved the creation of a unified data repository, leveraging Oracle as our database platform, and employing ETL procedures and the Star Schema model. Beyond data consolidation, this project includes data analysis with the integration of Power BI.
 
-## Content
+### Content
 
 1. 1 - PetShop - Relational Database.sql\
    Script to create the relational database.
